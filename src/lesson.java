@@ -6,7 +6,7 @@ public class lesson {
         String[] strName = str.split(" ");
         String list1 = "", list2 = "", list3 = "";
         strList strlist = new strList();
-        strlist.strForList(list1, list1, list1, strName);
+        strlist.strForList(list1, list2, list3, strName);
     }
 }
 
